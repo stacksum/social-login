@@ -1,0 +1,23 @@
+{
+  "select_language": "भाषा चुने",
+  "please_enter_valid_email": "कृपया मान्य ईमेल दर्ज़ करें",
+  "enter_email": "ईमेल दर्ज करें",
+  "enter_password": "पास वर्ड दर्ज करें",
+  "submit": "प्रस्तुत",
+  "do_not_have_account": "खाता नहीं है",
+  "create_new": "नया बनाओ",
+  "forgot_password": "पासवर्ड भूल गए?",
+  "app_name": "बॉयलर प्लेट कोड",
+  "enter_name": "नाम दर्ज करें",
+  "please_enter_name": "कृपया नाम दर्ज करें",
+  "enter_number": "नंबर डालें",
+  "please_enter_number": "कृपया नंबर डालें",
+
+  "enter_confirm_password": "पासवर्ड की पुष्टि दर्ज करें",
+  "please_enter_confirm_password": "कृपया पासवर्ड की पुष्टि दर्ज करें",
+  "confirm_password_not_match": "पुष्टि करें कि पासवर्ड मेल नहीं खा रहा है",
+  "already_have_account": "पहले से ही खाता है",
+  "sign_in": "साइन इन",
+  "sign_up": "साइन अप",
+  "please_enter_valid_password": "पासवर्ड कम से कम 8 वर्ण लंबा होना चाहिए और इसमें शामिल होना चाहिए \n 1) एक छोटा पात्र.\n 2) एक पूंजी चरित्र.\n 3) एक अंक, और एक विशेष वर्ण।."
+}
