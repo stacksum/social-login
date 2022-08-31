@@ -31,19 +31,19 @@ dependencies:
     sdk: flutter
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: any
+  cupertino_icons: ^1.0.2
   # for multi language support
-  easy_localization: any
+  easy_localization: ^3.0.1
   # for storing some key values in local storage
-  shared_value: any
+  shared_value: ^3.0.0
   # for checking connectivity in background in regular interval
-  connectivity_plus: any
+  connectivity_plus: ^2.3.6
   # for solving the purpose of extra pre define icons by font awesome
-  font_awesome_flutter: any
+  font_awesome_flutter: ^10.1.0
   # for cross platform facebook login
-  flutter_facebook_auth: any
+  flutter_facebook_auth: ^4.4.1
   # for cross platform google login
-  google_sign_in: any
+  google_sign_in: ^5.4.1
 
 dev_dependencies:
   flutter_test:
